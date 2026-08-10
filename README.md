@@ -1,4 +1,8 @@
-* {
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+    * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -473,4 +477,10 @@ footer {
   footer {
     grid-template-columns: 1fr;
   }
-}
+}  
+    </style>
+  </head>
+  <body>
+    
+  </body>
+</html>
